@@ -1,4 +1,4 @@
-Thanks for buying my pack
+Thanks for Downloading my pack
 
 To Install this pack follow the instructions below:
 
