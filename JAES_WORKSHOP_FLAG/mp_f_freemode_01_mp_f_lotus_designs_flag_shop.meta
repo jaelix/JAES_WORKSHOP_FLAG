@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+	<pedName>mp_f_freemode_01</pedName>
+	<dlcName>mp_f_lotus_designs_flag</dlcName>
+	<fullDlcName>mp_f_freemode_01_mp_f_lotus_designs_flag</fullDlcName>
+	<eCharacter>SCR_CHAR_MULTIPLAYER_F</eCharacter>
+	<creatureMetaData>MP_CreatureMetadata_lotus_designs_flag</creatureMetaData>
+	<pedOutfits>
+	</pedOutfits>
+	<pedComponents>
+        <!-- Undershirt: Undershirt - accs_diff_002_a_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_0_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="0" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_b_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_1_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="1" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_c_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_2_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="2" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_d_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_3_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="3" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_e_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_4_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="4" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_f_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_5_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="5" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_g_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_6_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="6" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_h_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_7_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="7" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_i_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_8_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="8" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_j_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_9_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="9" />
+			<isInOutfit value="false" />
+		</Item>
+        <!-- Undershirt: Undershirt - accs_diff_002_k_uni -->
+		<Item>
+			<lockHash />
+			<cost value="0"/>
+			<textLabel />
+			<uniqueNameHash>CLO_DCT_UNDERSHIRT_0_10_F</uniqueNameHash>
+			<eShopEnum>CLO_SHOP_NONE</eShopEnum>
+			<locate value="-99" />
+			<scriptSaveData value="0" />
+			<restrictionTags>
+			</restrictionTags>
+            <forcedComponents />
+            <variantComponents />
+			<drawableIndex value="0" />
+			<localDrawableIndex value="0" />
+			<eCompType>PV_COMP_ACCS</eCompType>
+			<textureIndex value="10" />
+			<isInOutfit value="false" />
+		</Item>
+	</pedComponents>
+	<pedProps>
+	</pedProps>
+</ShopPedApparel>
